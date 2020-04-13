@@ -1,1 +1,1 @@
-Exercise solutions for algorithms for devs 2020 otus
+Exercise solutions for "Algorithms for devs" 2020 otus
